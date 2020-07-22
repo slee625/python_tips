@@ -14,3 +14,5 @@ print(next(b)) # 3
 # Do this instead
 print(next(b, None))
 
+
+
