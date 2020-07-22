@@ -1,5 +1,8 @@
 
 
+'''
+Python iterator class tips
+'''
 a = [1,2,3]
 b = iter(a)
 print(next(b)) # 1
